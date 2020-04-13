@@ -59,7 +59,7 @@ function LandingPage() {
     <>
       <Container fluid className="mainContainer">
         <Row className="mainRow">
-          <Col lg="9" md="6" sm="0" className="gameplaySide d-flex justify-content-center">
+          <Col lg="9" md="6" sm="0" className="d-flex d-none d-md-block gameplaySide  justify-content-center ">
             <h1 className="comingSoon align-self-center text-center">Game coming soon!<br></br>4/27/2020</h1>
           </Col>
           <Col lg="3" md="6" sm="12" className="mainBar d-flex justify-content-center">
