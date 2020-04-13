@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CUDreamTeam/website/static/css/main.b60eba9f.chunk.css",
+    "main.js": "/CUDreamTeam/website/static/js/main.4f51f72b.chunk.js",
+    "main.js.map": "/CUDreamTeam/website/static/js/main.4f51f72b.chunk.js.map",
+    "runtime~main.js": "/CUDreamTeam/website/static/js/runtime~main.33ae3cab.js",
+    "runtime~main.js.map": "/CUDreamTeam/website/static/js/runtime~main.33ae3cab.js.map",
+    "static/js/2.abbc76ba.chunk.js": "/CUDreamTeam/website/static/js/2.abbc76ba.chunk.js",
+    "static/js/2.abbc76ba.chunk.js.map": "/CUDreamTeam/website/static/js/2.abbc76ba.chunk.js.map",
+    "index.html": "/CUDreamTeam/website/index.html",
+    "precache-manifest.7d6b39f81a887277493ad26210d391a9.js": "/CUDreamTeam/website/precache-manifest.7d6b39f81a887277493ad26210d391a9.js",
+    "service-worker.js": "/CUDreamTeam/website/service-worker.js",
+    "static/css/main.b60eba9f.chunk.css.map": "/CUDreamTeam/website/static/css/main.b60eba9f.chunk.css.map",
+    "static/media/warcrimes.css": "/CUDreamTeam/website/static/media/Deutsch.baa262cc.ttf",
+    "static/media/ayo-ogunseinde-2.jpg": "/CUDreamTeam/website/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
+    "static/media/clem-onojeghuo-2.jpg": "/CUDreamTeam/website/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
+    "static/media/clem-onojeghuo-3.jpg": "/CUDreamTeam/website/static/media/clem-onojeghuo-3.ae11d928.jpg",
+    "static/media/daniel-olahh.jpg": "/CUDreamTeam/website/static/media/daniel-olahh.facbbdb7.jpg",
+    "static/media/erik-lucatero-2.jpg": "/CUDreamTeam/website/static/media/erik-lucatero-2.2051e0e8.jpg",
+    "static/media/fabio-mangione.jpg": "/CUDreamTeam/website/static/media/fabio-mangione.f26c34bb.jpg",
+    "static/media/joe-gardner-2.jpg": "/CUDreamTeam/website/static/media/joe-gardner-2.76ff47ae.jpg",
+    "static/media/login-image.jpg": "/CUDreamTeam/website/static/media/login-image.be9fa468.jpg",
+    "static/media/paper-kit.scss": "/CUDreamTeam/website/static/media/nucleo-icons.f32ed5ad.eot",
+    "static/media/testlogo.png": "/CUDreamTeam/website/static/media/testlogo.ba1d105c.png"
+  }
+}
